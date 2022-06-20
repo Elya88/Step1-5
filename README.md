@@ -84,5 +84,26 @@ page for other developers
 - index.html: Where you’ll write your HTML
 - style.css: Where you’ll write your CSS
 - You can ignore the script.js for now, this exercise is about HTML and CSS only.
+#### My fist project in Glitch [GooglePage&CV](https://oasis-nova-thorium.glitch.me)
 
+
+
+3. Recreate a website
+The challenge is to recreate this webpage as well as you can:
+The page to copy: http://google.com/
+It doesn’t have to be perfect! Your web page should show us that you have potential to become a
+great web developer: you’re able to understand the basic layout of a generic website, you’re able to
+learn and apply new programming concepts, and that you can be creative.
+#### My project: [Google page] (https://elya88.github.io/Step1-5/)
+
+## Step 4/5
+
+#### Sololern: [JavaScript](https://www.sololearn.com/learning/1024)
+i'll continue 
+
+## Step 5/5  HANDING IN
+
+
+Once you are finished, you need to hand in your test assignment here:
+#### Form[Good luck ](https://form.typeform.com/to/OrjXf9Ck)
 
