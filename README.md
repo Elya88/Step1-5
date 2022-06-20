@@ -1,3 +1,11 @@
+#### Sololern: [HTML](https://www.sololearn.com/learning/1014)
+#### Sololern: [CSS](https://www.sololearn.com/learning/1023)
+#### Sololern: [JavaScript](https://www.sololearn.com/learning/1024)
+#### My project: [Google page](https://elya88.github.io/Step1-5/)
+#### My fist project in Glitch [GooglePage&CV](https://oasis-nova-thorium.glitch.me)
+#### Markdown 👇
+
+
 # Step1-5
 # Elnura Sarkobenova
 
@@ -94,7 +102,8 @@ The page to copy: http://google.com/
 It doesn’t have to be perfect! Your web page should show us that you have potential to become a
 great web developer: you’re able to understand the basic layout of a generic website, you’re able to
 learn and apply new programming concepts, and that you can be creative.
-#### My project: [Google page] (https://elya88.github.io/Step1-5/)
+
+#### My project: [Google page](https://elya88.github.io/Step1-5/)
 
 ## Step 4/5
 
